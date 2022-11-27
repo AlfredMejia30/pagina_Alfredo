@@ -1,0 +1,3 @@
+User_agent *
+Disallow: style.css
+Disallow: fuentes.css

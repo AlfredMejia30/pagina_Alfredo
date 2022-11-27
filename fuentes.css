@@ -1,0 +1,39 @@
+.tipo_letra{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #afadad;
+        }
+        .tipo_letraP{
+          font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+          color: #afadad;
+            padding-left: 14%;
+            padding-right: 13%;
+            text-align: justify;
+            text-justify: inter-word;
+                }
+                .tipo_letraP2{
+                  font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+                  color: #afadad;
+                    padding-left:28%;
+                    text-align: justify;
+                    text-justify: inter-word;
+                        }
+
+                  .tipo_letraTa{
+                    font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+                    color: #afadad;
+                    padding-left: 14%;
+                      padding-right: 13%;
+                      text-justify: inter-word;
+                          }
+                          
+                          .tipo_letraP3{
+                            font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+                            color: #afadad;
+                              text-align: justify;
+                              text-justify: inter-word;
+                                  }
+                                  .tipo_letraH{
+                                    font-family: Verdana, Geneva, Tahoma, sans-serif;
+                                    color: #afadad;
+                                    font-size: 12px;
+                                        }
