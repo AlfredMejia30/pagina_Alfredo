@@ -2,3 +2,4 @@ User_agent *
 Disallow: style.css
 Disallow: fuentes.css
 Esta es una prueba para una practica
+compartir repo
